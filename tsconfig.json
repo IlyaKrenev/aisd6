@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "out": "dist/main.js",
+    "watch": true
+  },
+  "files": [
+    "src/dijkstra_bin.ts",
+    "src/dijkstra_simple.ts",
+    "src/dijkstra_fib.ts",
+    "src/Main.ts"
+  ]
+}
